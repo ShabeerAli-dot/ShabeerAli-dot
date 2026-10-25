@@ -46,31 +46,31 @@ I focus on writing maintainable code, designing reliable backend systems and cre
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" alt="Frontend Tech Stack" />
 </p>
 
-### Backend
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,cs,dotnet" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,cs,dotnet&perline=6" alt="Backend Tech Stack" />
 </p>
 
-### Database & ORM
+### 🗄️ Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" alt="Databases and ORM" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma&perline=5" alt="Database Tech Stack" />
 </p>
 
-### Mobile
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Development" />
 </p>
 
-### Tools
+### 🧰 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
