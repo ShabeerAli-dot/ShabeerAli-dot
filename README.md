@@ -231,20 +231,42 @@ A centralized restaurant management platform for managing sales, purchases, expe
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ShabeerAli-dot&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Shabeer Ali GitHub Statistics"
+  height="170"
+/>
+
+</div>
+
+---
+
+## 💻 Core Technologies
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShabeerAli-dot&show_icons=true&hide_border=true&theme=github_dark"
-    height="165"
-    alt="GitHub Statistics"
-  />
+  <strong>Languages</strong>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabeerAli-dot&layout=compact&hide_border=true&theme=github_dark"
-    height="165"
-    alt="Most Used Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,dart&perline=5" alt="Programming Languages" />
+</p>
+
+<p align="center">
+  <strong>Frameworks & Libraries</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,django,flutter,dotnet&perline=6" alt="Frameworks and Libraries" />
+</p>
+
+<p align="center">
+  <strong>Databases & ORM</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&perline=5" alt="Databases and ORM" />
 </p>
 
 ---
