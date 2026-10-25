@@ -243,34 +243,6 @@ A centralized restaurant management platform for managing sales, purchases, expe
 
 ---
 
-## 💻 Core Technologies
-
-<p align="center">
-  <strong>Languages</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,dart&perline=5" alt="Programming Languages" />
-</p>
-
-<p align="center">
-  <strong>Frameworks & Libraries</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,django,flutter,dotnet&perline=6" alt="Frameworks and Libraries" />
-</p>
-
-<p align="center">
-  <strong>Databases & ORM</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&perline=5" alt="Databases and ORM" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
