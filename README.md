@@ -90,6 +90,88 @@ I focus on writing maintainable code, designing reliable backend systems and cre
 
 ---
 
+## 🌟 Featured Projects
+
+A selection of business applications and digital platforms I have worked on.
+
+### 🏢 Enterprise ERP & CRM
+
+**Enterprise Sales & Distribution Management System**
+
+A full-stack business management platform designed to streamline sales operations, inventory management and customer relationships.
+
+**Key Features**
+- Role-Based Access Control (RBAC)
+- Quotation & Sales Order Management
+- Inventory & Warehouse Operations
+- Approval Workflows
+- CRM Lead Management
+- REST API & Third-Party Integrations
+
+**Tech Stack:** Next.js, NestJS, TypeScript, PostgreSQL, Prisma
+
+---
+
+### 🍽️ Almaaz — Multi-Branch Management
+
+**Restaurant Business Management System**
+
+A centralized platform for managing daily business operations across multiple restaurant branches.
+
+**Key Features**
+- Multi-Branch Management
+- Daily Sales Reporting
+- Purchase & Expense Tracking
+- Invoice Image Uploads
+- Owner Approval Workflows
+- Responsive Manager & Owner Dashboards
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
+
+---
+
+### 💎 Popular Gold & Diamonds
+
+**Jewellery E-Commerce Platform**
+
+An e-commerce platform focused on jewellery product management, dynamic pricing and customer enquiries.
+
+**Key Features**
+- Product Catalog Management
+- Gold & Diamond Pricing
+- Product Variations
+- Shopping Cart
+- WhatsApp Checkout
+- Admin Dashboard
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL
+
+---
+
+### 🚀 BaviOnline — SaaS Platform Website
+
+**Business Software Marketing Website**
+
+A responsive marketing website showcasing business software products and supporting demo enquiries.
+
+**Key Features**
+- Billing Software Showcase
+- HRM Software Showcase
+- OOH Advertising Software Showcase
+- Demo Booking Enquiries
+- Responsive Design
+- SEO-Friendly Pages
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+
+---
+
+<p align="center">
+  <i>Selected project work • Source code maintained in private repositories</i>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
