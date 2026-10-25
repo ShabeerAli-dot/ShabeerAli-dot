@@ -21,15 +21,26 @@ Building scalable, responsive and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and Full-Stack Developer with hands-on experience in building modern web and mobile applications.
+I'm a **Full-Stack Developer & Software Engineer** at **Dot.Case Business Consultancy**, focused on building scalable, secure and user-friendly web applications.
 
-- 💼 Software Engineer at **Dot Case**
-- 🚀 Building applications with **Next.js, React, TypeScript & Node.js**
-- 🛒 Experience with **E-Commerce, CRM, HRM & Admin Dashboards**
-- 📱 Mobile application development with **Flutter**
-- 🔌 Working with **REST APIs & third-party integrations**
-- 🌱 Continuously learning modern full-stack technologies
-- 📍 Kerala, India
+I work across frontend, backend and database development, transforming business requirements into practical software solutions.
+
+- 💼 **Current Role:** Full-Stack Developer at Dot.Case
+- 💻 **Frontend:** Next.js, React, TypeScript & Tailwind CSS
+- ⚙️ **Backend:** Node.js, NestJS & REST API Development
+- 🗄️ **Database:** PostgreSQL, MySQL, MongoDB & Prisma ORM
+- 🏢 **Business Solutions:** ERP, CRM, HRM, E-Commerce & SaaS Platforms
+- 🔐 **Security:** Authentication, Role-Based Access Control (RBAC) & API Security
+- 🔗 **Integrations:** Third-party APIs, WhatsApp & Business System Integrations
+- 📱 **Mobile:** Flutter & Dart
+- 🌱 **Currently Exploring:** Scalable System Architecture & Modern Development Practices
+- 📍 **Location:** Kerala, India
+
+### 💡 My Development Approach
+
+I focus on writing maintainable code, designing reliable backend systems and creating intuitive user experiences.
+
+**Clean Code • Scalability • Security • Performance**
 
 ---
 
