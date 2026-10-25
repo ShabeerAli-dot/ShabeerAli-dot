@@ -82,11 +82,11 @@ I focus on writing maintainable code, designing reliable backend systems and cre
 
 - 🌐 Full-Stack Web Applications
 - 🛒 E-Commerce Platforms
-- 📊 CRM & HRM Systems
+- 📊 ERP, CRM & HRM Systems
 - ⚙️ Admin Dashboards
 - 🏢 Business Websites
 - 📱 Mobile Applications
-- 🔗 API & Payment Integrations
+- 🔗 API & Third-Party Integrations
 
 ---
 
@@ -94,29 +94,122 @@ I focus on writing maintainable code, designing reliable backend systems and cre
 
 A selection of business applications and digital platforms I have worked on.
 
-### 🏢 Enterprise ERP & CRM
+### 🏢 ASR — ERP & E-Commerce
 
-**Enterprise Sales & Distribution Management System**
+**Business Management & E-Commerce Platform**
 
-A full-stack business management platform designed to streamline sales operations, inventory management and customer relationships.
+An integrated ERP and e-commerce solution developed using Python and Django.
+
+<p align="center">
+  <img src="./assets/projects/1%20(1).png" alt="ASR ERP and E-Commerce" width="100%" />
+</p>
 
 **Key Features**
-- Role-Based Access Control (RBAC)
-- Quotation & Sales Order Management
-- Inventory & Warehouse Operations
-- Approval Workflows
-- CRM Lead Management
-- REST API & Third-Party Integrations
+- ERP & Business Management
+- E-Commerce Operations
+- Product & Inventory Management
+- Customer & Order Management
+- REST API Integration
 
-**Tech Stack:** Next.js, NestJS, TypeScript, PostgreSQL, Prisma
+**Tech Stack:** Python, Django, PostgreSQL, Pandas, Django REST Framework
 
 ---
 
-### 🍽️ Almaaz — Multi-Branch Management
+### 💎 Popular Gold & Diamonds — E-Commerce
 
-**Restaurant Business Management System**
+**Jewellery E-Commerce Platform**
 
-A centralized platform for managing daily business operations across multiple restaurant branches.
+A modern jewellery shopping platform with dynamic product pricing, catalog management and WhatsApp checkout.
+
+<p align="center">
+  <img src="./assets/projects/1%20(2).png" alt="Popular Gold and Diamonds E-Commerce" width="100%" />
+</p>
+
+**Key Features**
+- Jewellery Product Catalog
+- Gold & Diamond Pricing
+- Product Variations
+- Shopping Cart
+- WhatsApp Checkout
+- Admin Dashboard
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
+
+---
+
+### 📢 OOH Advertising — CRM
+
+**Out-of-Home Advertising Management System**
+
+A CRM platform for managing outdoor advertising operations, clients and campaigns.
+
+<p align="center">
+  <img src="./assets/projects/1%20(3).png" alt="OOH Advertising CRM" width="100%" />
+</p>
+
+**Key Features**
+- Advertising Campaign Management
+- Client & Enquiry Management
+- Advertising Inventory
+- Business Operations Dashboard
+- Reporting & Analytics
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
+
+---
+
+### 💠 Popular Gold & Diamonds — CRM
+
+**Customer Relationship Management System**
+
+A CRM platform designed to manage customer enquiries, sales activities and business operations.
+
+<p align="center">
+  <img src="./assets/projects/1%20(4).png" alt="Popular Gold and Diamonds CRM" width="100%" />
+</p>
+
+**Key Features**
+- Customer Management
+- Lead & Enquiry Tracking
+- Sales Management
+- Admin Dashboard
+- Business Reporting
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
+
+---
+
+### 🛋️ LOG Furniture — E-Commerce
+
+**Furniture E-Commerce Platform**
+
+A modern furniture shopping platform with product catalog management, promotional offers and customer shopping experiences.
+
+<p align="center">
+  <img src="./assets/projects/1%20(5).png" alt="LOG Furniture E-Commerce" width="100%" />
+</p>
+
+**Key Features**
+- Furniture Product Catalog
+- Product Categories & Variations
+- Promotional Offers
+- Shopping Cart
+- Product Detail Pages
+- Admin Product Management
+
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
+
+---
+
+### 🍽️ Almaaz Shawarma — CRM
+
+**Multi-Branch Restaurant Management System**
+
+A centralized restaurant management platform for managing sales, purchases, expenses and branch operations.
+
+<p align="center">
+  <img src="./assets/projects/Almaaz%20Shawarma%20Dashboard%20Showcase.png" alt="Almaaz Shawarma CRM Dashboard" width="100%" />
+</p>
 
 **Key Features**
 - Multi-Branch Management
@@ -124,45 +217,9 @@ A centralized platform for managing daily business operations across multiple re
 - Purchase & Expense Tracking
 - Invoice Image Uploads
 - Owner Approval Workflows
-- Responsive Manager & Owner Dashboards
+- Manager & Owner Dashboards
 
 **Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma
-
----
-
-### 💎 Popular Gold & Diamonds
-
-**Jewellery E-Commerce Platform**
-
-An e-commerce platform focused on jewellery product management, dynamic pricing and customer enquiries.
-
-**Key Features**
-- Product Catalog Management
-- Gold & Diamond Pricing
-- Product Variations
-- Shopping Cart
-- WhatsApp Checkout
-- Admin Dashboard
-
-**Tech Stack:** Next.js, NestJS, PostgreSQL
-
----
-
-### 🚀 BaviOnline — SaaS Platform Website
-
-**Business Software Marketing Website**
-
-A responsive marketing website showcasing business software products and supporting demo enquiries.
-
-**Key Features**
-- Billing Software Showcase
-- HRM Software Showcase
-- OOH Advertising Software Showcase
-- Demo Booking Enquiries
-- Responsive Design
-- SEO-Friendly Pages
-
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
 
 ---
 
